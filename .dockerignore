@@ -1,0 +1,15 @@
+/__pycache__/
+/.conda/
+/.vscode/
+/kernel_meta/
+/models/
+/temp/
+.dockerignore
+.gitignore
+cpm-bee.md
+测试与docker打包.md
+Dockerfile
+running.log
+测试与docker打包.md
+*.log
+report.txt

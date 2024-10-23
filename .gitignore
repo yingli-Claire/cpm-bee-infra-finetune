@@ -3,3 +3,17 @@
 
 # log 文件
 /*log
+report.txt
+
+# 模型文件
+/models/
+
+# 临时文件
+/__pycache__/
+/.conda/
+/.vscode/
+/kernel_meta/
+/temp/
+
+# ascend-toolkit
+/ascend-toolkit/
